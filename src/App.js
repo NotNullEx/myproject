@@ -9,7 +9,7 @@ import "./App.css";
 function App() {
   return (
     // basename="/react11"
-    <Router basename="/test1">
+    <Router basename="/myproject">
         <div>
             <Navbar></Navbar>
               <Routes>
